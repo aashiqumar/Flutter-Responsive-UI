@@ -5,5 +5,4 @@ This project will help you figure out how the UI developed using the Flutter Fra
 ## Getting Started
 
 
-https://user-images.githubusercontent.com/62248357/168458146-6403603d-1a45-4bf5-8c6b-2808338ebc51.mov
-
+![Flutter Responsive UI ](https://user-images.githubusercontent.com/62248357/168458244-86d15e15-7586-4c6a-8dd2-90f8c6de5dd8.gif)
