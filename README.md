@@ -11,7 +11,7 @@ Reference : @mitchkoko
 
 ## Socials
 
-Follow My Social
+Follow My Socials
 
 <div>
 
