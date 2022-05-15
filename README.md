@@ -1,16 +1,9 @@
-# responsive
+# Flutter Responsive UI
 
-A new Flutter project.
+This project will help you figure out how the UI developed using the Flutter Framework can be made Responsive across many devices. The method used in the project is much much more standard and a solid apprach.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/62248357/168458146-6403603d-1a45-4bf5-8c6b-2808338ebc51.mov
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
